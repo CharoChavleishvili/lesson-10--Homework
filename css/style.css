@@ -114,8 +114,16 @@
 .button {
     margin-top: 16px;
     background-color: #5863F8;
+    justify-content: center;
+    color: #FFFFFF;
+    font-size: 21px;
+    cursor: pointer;
+
 }
 ::placeholder {
     color: #CECECE;
+}
+.arrow {
+    margin-left: 10px;
 }
 
