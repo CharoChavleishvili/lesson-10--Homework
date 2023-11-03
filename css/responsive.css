@@ -105,4 +105,55 @@
     }
 }
 /* 720 */
-@media
+@media (max-width:720px) {
+    .nav-li {
+        display: none;
+    }
+    .burger {
+        display: inline-block;
+    }
+    .header-div {
+        justify-content: space-between;
+        padding: 50px;
+    }
+    .map {
+        width: 600px;
+    }
+    .section1 {
+        width: 600px;
+        margin: 0 auto;
+        margin-top: 50px;
+    }
+    .firstbox h2 {
+        font-size: 20px;
+    }
+    .form {
+        width: 600px;
+        justify-content: space-evenly;
+    }
+    .left-block {
+        width: 300px;
+        height: 200px;
+    }
+    .textarea {
+        width: 350px;
+        height: 200px;
+    }
+    .right-block {
+        width: 100px;
+        height: 200px;
+    }
+    .firstbox h4 {
+        width: 600px;
+    }
+    .firstbox h4 {
+        width: 600px;
+    }
+    .firstbox {
+        width: 600px;
+    }
+    .section2 {
+        width: 600px;
+    }
+    
+}
