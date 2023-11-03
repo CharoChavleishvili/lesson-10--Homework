@@ -115,20 +115,24 @@
     .header-div {
         justify-content: space-between;
         padding: 50px;
+        width: 500px;
     }
     .map {
-        width: 600px;
+        width: 500px;
     }
     .section1 {
-        width: 600px;
+        width: 500px;
         margin: 0 auto;
         margin-top: 50px;
+    }
+    .section {
+        width: 550px;
     }
     .firstbox h2 {
         font-size: 20px;
     }
     .form {
-        width: 600px;
+        width: 500px;
         justify-content: space-evenly;
     }
     .left-block {
@@ -144,16 +148,16 @@
         height: 200px;
     }
     .firstbox h4 {
-        width: 600px;
+        width: 500px;
     }
-    .firstbox h4 {
-        width: 600px;
+    .firstbox h2 {
+        width: 100px;
     }
     .firstbox {
-        width: 600px;
+        width: 500px;
     }
     .section2 {
-        width: 600px;
+        width: 500px;
     }
     
 }
