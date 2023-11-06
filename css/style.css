@@ -28,7 +28,8 @@
     color: #FFFFFF;
     margin-top: 95px;
     margin-left: 220px;
-    width: 172px;
+    max-width: 172px;
+    width: 100%;
 
 }
 .contact h2 {
@@ -50,9 +51,7 @@
 .container {
     max-width: 1088px;
     width: 100%;
-    /* height: 286px; */
     margin: 0 auto;
- 
 }
 .section1 {
    margin-top: 50px;
@@ -134,4 +133,62 @@
 .burger {
     display:none;
 }
+/* section 3 */
+.section3 {
+    flex-wrap: wrap;
+}
+.block1 {
+    max-width: 362px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+.icon {
+    background-color: #5863F8;
+    border-radius: 50px;
+    width: 59px;
+    height: 59px;
+    text-align: center;
+    color: #FFFFFF;
+    text-align: center;
+    align-items: center;
+    padding: 20px;
+}
+.email {
+    font-size: 18px;
+    margin-top: 15px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.block1 p {
+    text-align: center;
+    max-width: 362px;
+    padding:0 85px;
+    color: #B1B1B1;
+
+}
+.phone {
+    font-size: 14px;
+    height: 44px;
+    text-align: center;
+    padding: 150px;
+    width: 280px;
+}
+/* section 4 */
+    .section4 h5 {
+        font-size: 14px;
+        color: #5863F8;
+        margin-bottom: 10px;
+        font-weight: bold;
+        margin-top: 90px;
+    }
+    .section4 p {
+        font-size: 42px;
+        max-width: 544px;
+        width: 100%;
+        margin-bottom: 50px;
+    }
 
