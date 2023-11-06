@@ -151,7 +151,7 @@
 }
 @media (max-width:661px) {
     .form {
-        width: 400px;
+        width: 500px;
     }
     .firstbox {
         width: 200px;
@@ -159,9 +159,16 @@
     .firstbox h2 {
         width: 300px;
         margin: 0 auto;
+        margin-bottom: 15px;
     }
     .section {
-        width: 400px;
+        width: 500px;
+    }
+    .map {
+        width: 500px;
+    }
+    .section2 {
+        width: 500px;
     }
 }
 @media (max-width:375px) {
