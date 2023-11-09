@@ -509,10 +509,7 @@
         height: 190px;
         margin-bottom: 15px;
     }
-    .copyright {
-        max-width: 300px;
-        width: 100%;
-    }
+
 }
 @media (max-width:512px) {
     .section {
